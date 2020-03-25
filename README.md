@@ -1,2 +1,2 @@
-# Fusion Standard Images
+# Standard Scenes for Image Fusion Evaluation
 This repository contains some of the standard images used to compare HDR, tonemapping, and exposure fusion methods in research. Copyrights are owned by their respective photographers.
